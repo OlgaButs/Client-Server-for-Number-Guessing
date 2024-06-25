@@ -1,0 +1,12 @@
+client_id,number_of_numbers,guess
+Teste04,3,"['max', 'last']"
+Teste03,3,"['max', 'last']"
+Teste02,3,"['max', 'last']"
+Teste01,3,"['max', 'last']"
+Teste01,4,"['max', 'last']"
+Teste,10,"['max', 'last']"
+TesteOutro,10,"['max', 'first']"
+TesteRigged,7,['min']
+IMaTEST,1,"['min', 'last']"
+IMaTEST,1,"['min', 'last']"
+IMaTEST,1,"['median', 'first']"
